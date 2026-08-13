@@ -359,7 +359,13 @@ Communication between `hermes_audio_integration.py` and `main.py` uses JSON fram
 ---
 
 ## Installation & Setup
-
+---
+## Automatic:
+1. Clone the hermes_assistant repository onto your machine (strictly speaking the python scripts, custom_wakeword, .local_models, pyproject.toml, install.sh and run.sh scripts)
+2. Run the install.sh script followed by the run.sh script
+---
+---
+## Manual installation and execution:
 ### Requirements
 
 * **OS:** Linux (Ubuntu/Debian/Arch)
