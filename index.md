@@ -3,13 +3,8 @@
 ## [Prelude](pages/intro.md)
 ## [Upcoming content](/upcoming.md):
 
----
----
-
 ## Projects:
 - Software Defined Radio for full spectrum radio exploration
-
----
 
 ## Pages:
 - Exosomes and small extracellular vesicles biogenesis and uptake
