@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+## This script changes the website theme, look on the github doc "Adding a theme to your GitHub Pages site using Jekyll"
+## for a list of supported themes, click on any one of them, then copy and paste the relevant config.yml changes and save.
